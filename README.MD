@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/CSA/
+https://nmfs-fish-tools.github.io/CSA
 
 **************
 
